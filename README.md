@@ -5,16 +5,9 @@ The main purpose of the project is making people to get updated with news that i
 
 
 Features
-● Online News:​ App gets news articles from various online news websites like
-Times of India, NDTV news, Indian express which provide REST Apis for
-developers.
-● Categorisation:​ All the news articles are categorised into topics like Top news,
-Business, Sports, Entertainment, World, Events etc. Some of the categories will
-have sub categories like sports will have badminton, cricket, football etc.
-● Speak News:​ The app will have a play button which will read you out the news.
-Suppose if you feel the news is boring or you know content in first few paragraphs
-already you clicking on the any word in the news article will make the app read
-news article from that word.n
+● Online News: App gets news articles from various online news websites like Times of India, NDTV news, Indian express which provide REST Apis for developers.
+● Categorisation: All the news articles are categorised into topics like Top news, Business, Sports, Entertainment, World, Events etc.Some of the categories will have sub categories like sports will have badminton, cricket, football etc.
+● Speak News: The app will have a play button which will read you out the news. Suppose if you feel the news is boring or you know content in first few paragraphs already you clicking on the any word in the news article will make the app readnews article from that word
 ● Offline News:​ App also lets user to download entire news package when he has
 internet access and can hear news any time after downloading which will be
 helpful if user doesn’t have Mobile data but has Wifi in his home or Office.
