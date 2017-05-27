@@ -10,7 +10,8 @@ Features
 
 ● Categorisation: All the news articles are categorised into topics like Top news, Business, Sports, Entertainment, World, Events etc.Some of the categories will have sub categories like sports will have badminton, cricket, football etc.
 
-● Speak News: The app will have a play button which will read you out the news. Suppose if you feel the news is boring or you know content in first few paragraphs already you clicking on the any word in the news article will make the app readnews article from that word
+● Speak News: The app will have a play button which will read you out the news. Suppose if you feel the news is boring or you know content in first few paragraphs already you clicking on the any word in the news article will make the app readnews article from that word.
+
 ● Offline News: App also lets user to download entire news package when he has internet access and can hear news any time after downloading which will be helpful if user doesn’t have Mobile data but has Wifi in his home or Office.
 
 ● Blind assist: App also has a complete interactive system which helps blind person starting from opening the app to selecting the appropriate news and listening to them through a voice speaking intelligent personal assistant.
